@@ -1,0 +1,27 @@
+{
+    "name": "noor",
+    "short_name": "noor PWA App",
+    "icons": [
+      {
+        "src": "/code.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/unnamed.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "/unnamed.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
